@@ -1,1 +1,39 @@
-{}
+{
+  "passengers": [
+    {
+      "fullname": "Paul Motto",
+      "id": 1,
+      "checkedIn": true,
+      "baggage": "hand-only",
+      "checkInDate": 1491606000000
+    },
+    {
+      "id": 2,
+      "fullname": "Foo Bar",
+      "checkedIn": false,
+      "checkInDate": 1491606000000,
+      "baggage": ""
+    },
+    {
+      "id": 3,
+      "fullname": "Yeeyo",
+      "checkedIn": true,
+      "checkInDate": 1491606000000,
+      "baggage": ""
+    },
+    {
+      "id": 4,
+      "fullname": "John Doe",
+      "checkedIn": false,
+      "checkInDate": 1491606000000,
+      "baggage": ""
+    },
+    {
+      "id": 5,
+      "fullname": "Lorema Ipsuma",
+      "checkedIn": true,
+      "checkInDate": 1491606000000,
+      "baggage": ""
+    }
+  ]
+}
